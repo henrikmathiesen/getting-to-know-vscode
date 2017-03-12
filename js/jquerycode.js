@@ -1,7 +1,7 @@
-/// <reference path="../typings/jquery/jquery.d.ts"/>
 (function(){
 	
 	// We get good jQuery intellisence after fetching from DefinitelyTyped
+	// Removed DefinitelyTyped
 	
 	console.log('Hello World!');
 	
